@@ -4,7 +4,7 @@
 
 ## Hosted Platform
 
-
+https://mramit-itech.github.io/project-bodyshop.github.io/html/home.html
 
 ## Contributors
 
