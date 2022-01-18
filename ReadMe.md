@@ -4,7 +4,7 @@
 
 ## Hosted Platform
 
-https://gurdeep7.github.io/mybodyshop/html/home
+
 
 ## Contributors
 
